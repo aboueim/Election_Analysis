@@ -55,9 +55,9 @@ The analysis of the election shows that:
 
 - The county results were:
 
-    Jefferson comprised 10.5% of the voters and 38,855 number of the votes.
-    Denver comprised 82.8% of the votes and 306,055 number of the votes.
-    Arapahoe comprised 6.7% of the votes and 24,801 number of the votes.
+    Jefferson county comprised **10.5%** of the voters and **38,855** number of the votes.
+    Denver county comprised **82.8%** of the votes and **306,055** number of the votes.
+    Arapahoe county comprised **6.7%** of the votes and **24,801** number of the votes.
     
 - The county with the largest voter turnout was:
 
@@ -65,19 +65,19 @@ The analysis of the election shows that:
     
 - The candidates were:
 
-    Charles Casper Stockham
-    Diana DeGette
-    Raymon Anthony Doane
+    **Charles Casper Stockham**
+    **Diana DeGette**
+    **Raymon Anthony Doane**
 
 - The candidate results were:
 
-    Charles Casper Stockham received 23.0% of the votes and 85,213 number of the votes.
-    Diana DeGette received 73.8% of the votes and 272,892 number of the votes.
-    Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes.
+    Charles Casper Stockham received **23.0%** of the votes and **85,213** number of the votes.
+    Diana DeGette received **73.8%** of the votes and **272,892** number of the votes.
+    Raymon Anthony Doane received **3.1%** of the votes and **11,606** number of the votes.
 
 - The winner of the election was:
 
-    Diana DeGette, who received 73.8% of the votes and 272,892 number of the votes.
+    **Diana DeGette**, who received **73.8%** of the votes and **272,892** number of the votes.
 
 ## Election-Audit Summary: 
 
