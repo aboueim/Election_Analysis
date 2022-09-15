@@ -28,7 +28,7 @@ software: python  and Visual studio code
 
 ### Python script
 
-The python script is saved as a .py file entitled PyPoll_Challenge.py which is uploaded to the Election_Analysis repository.
+The python script is saved as a .py file entitled "**PyPoll_Challenge.py**" which is uploaded to the Election_Analysis repository.
 
 ## Election-Audit Results:
 
