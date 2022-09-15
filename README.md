@@ -49,9 +49,9 @@ The analysis of the election shows that:
 
 - The election was held in three counties as following:
 
-    1. Jefferson
-    2. Denver
-    3. Arapahoe
+    1. **Jefferson**
+    2. **Denver**
+    3. **Arapahoe**
 
 - The county results were:
 
