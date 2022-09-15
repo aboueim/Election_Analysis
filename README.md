@@ -45,6 +45,23 @@ Following represents the script for the election audit:
 The analysis of the election shows that:
 
 - There were **369,711** votes cast in the election.
+
+- The election was held in three counties as following:
+
+    Jefferson
+    Denver
+    Arapahoe
+
+- The county results were:
+
+    Jefferson comprised 10.5% of the votes and 38,855 number of the votes.
+    Denver comprised 82.8% of the votes and 306,055 number of the votes.
+    Arapahoe comprised 6.7% of the votes and 24,801 number of the votes.
+    
+- The county with the largest turnout was:
+
+    Denver that comprised 82.8% of the votes and 306,055 number of the votes.
+    
 - The candidates were:
 
     Charles Casper Stockham
