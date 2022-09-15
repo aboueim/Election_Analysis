@@ -40,11 +40,11 @@ Following represents the script for the election audit:
 ![This is an image](/VBA_Challenge_2018.png)
 
 
-## Summary
+## Challenge Summary
 
 The analysis of the election shows that:
 
-- There are 369,711 votes cast in the election.
+- There were **369,711** votes cast in the election.
 - The candidates were:
 
     Charles Casper Stockham
@@ -57,3 +57,6 @@ The analysis of the election shows that:
     Diana DeGette received 73.8% of the votes and 272,892 number of the votes.
     Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes.
 
+- The winner of the election was:
+
+    Diana DeGette, who received 73.8% of the votes and 272,892 number of the votes.
