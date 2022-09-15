@@ -31,13 +31,13 @@ Following represents the script for the election audit:
 
 ### Stock Performance 2017
 
-![This is an image](/VBA_Challenge_2017.png)
+![This is an image](/Terminal_Outcome.png)
 
 
 
 ### Analysis of Outcomes Based on Goals
 
-![This is an image](/VBA_Challenge_2018.png)
+![This is an image](/election_results_write.png)
 
 
 ## Challenge Summary
