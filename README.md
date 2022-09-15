@@ -22,13 +22,13 @@ The results of the project also provides:
 
 ## Analysis
 
-### Python Code
+Data Srouce: election_results.csv
 
-Following represents the script for the election audit:
+software: python  and Visual studio code
 
-Note: a "!" is added before the "#" where the comments could turn to a header in the .md file. The original .py file is uploaded to the repository entitled PyPoll_Challenge.py.
+### Python script
 
-
+The python script is saved as a .py file entitled PyPoll_Challenge.py which is uploaded to the Election_Analysis repository.
 
 ## Election-Audit Results:
 
