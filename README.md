@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-A Colorado board of elections employee has asked you to fulfill the following tasks to complete the election audit of a recent local congressional election.
+A Colorado board of elections employee has asked me to fulfill the following tasks to complete the election audit of a recent local congressional election.
 
 Tasks:
 
@@ -54,11 +54,11 @@ The analysis of the election shows that:
 
 - The county results were:
 
-    Jefferson comprised 10.5% of the votes and 38,855 number of the votes.
+    Jefferson comprised 10.5% of the voters and 38,855 number of the votes.
     Denver comprised 82.8% of the votes and 306,055 number of the votes.
     Arapahoe comprised 6.7% of the votes and 24,801 number of the votes.
     
-- The county with the largest turnout was:
+- The county with the largest voter turnout was:
 
     Denver that comprised 82.8% of the votes and 306,055 number of the votes.
     
