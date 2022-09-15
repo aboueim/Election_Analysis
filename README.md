@@ -49,7 +49,7 @@ The analysis of the election shows that:
 
 - There were **369,711** votes cast in the election.
 
-- The election was held in three counties as following:
+- The election was held in three counties:
 
     1. **Jefferson**
     2. **Denver**
