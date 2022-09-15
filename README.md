@@ -14,7 +14,7 @@ To identify
 
 The results of the project also provides:
 
-- The total number of votes cast.
+- The total number of votes cast in the precint.
 - A complete list of candidates who received votes.
 - The total number of votes each candidate received.
 - The percentage of votes each candidate won.
@@ -81,4 +81,6 @@ The analysis of the election shows that:
 
 ## Election-Audit Summary: 
 
-The script developed for the purpose of the above election audit can be utilized in order to extend such analysis to other 
+The script developed for the purpose of the above election audit can be utilized in order to replicate such analysis for similar elections in other regions. The script works based on how the election dataset used to store election data is structured and can iterate through the entire dataset regardless the number of records stored. Thus, if the same data structure (it means, first column as Ballot IDs, second column as County names, ad third columns as Candidate name) is used to store data related to other elections, the existing code can simply run the same analysis and give expected results. However, even if the dataset does not follow exatly the same structure, the script is strill valid for election audit. For example, in case the column order is changed or new columns are added, simply modifying index numbers, one can obtain correct results.
+
+
