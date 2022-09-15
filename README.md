@@ -57,7 +57,7 @@ The analysis of the election shows that:
 
 - The county results were:
 
-    * Jefferson county comprised **10.5%** of the voters and **38,855** number of the votes.
+    * Jefferson county comprised **10.5%** of the votes and **38,855** number of the votes.
     * Denver county comprised **82.8%** of the votes and **306,055** number of the votes.
     * Arapahoe county comprised **6.7%** of the votes and **24,801** number of the votes.
     
