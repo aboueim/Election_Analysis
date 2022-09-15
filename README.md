@@ -1,4 +1,4 @@
-# Stock Analysis Challenge
+# Election Analysis Challenge
 
 ## Overview of Project
 
@@ -31,7 +31,7 @@ Following represents the script for the election audit:
 
 ### Stock Performance 2017
 
-![This is an image](/Terminal_Outcome.png)
+![This is an image](/Terminal_Output.png)
 
 
 
