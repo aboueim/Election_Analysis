@@ -36,7 +36,7 @@ Following represents the script for the election audit:
 
 
 
-### Election Audit Result in VS Code Terminal
+### Election Audit Result Printed in a Text File
 
 ![This is an image](/election_results_write.png)
 
