@@ -42,11 +42,18 @@ Following represents the script for the election audit:
 
 ## Summary
 
-### What are the advantages or disadvantages of refactoring code?
+The analysis of the election shows that:
 
+- There are 369,711 votes cast in the election.
+- The candidates were:
 
+    Charles Casper Stockham
+    Diana DeGette
+    Raymon Anthony Doane
 
-### How do these pros and cons apply to refactoring the original VBA script?
+- The candidate results were:
 
-
+    Charles Casper Stockham received 23.0% of the votes and 85,213 number of the votes.
+    Diana DeGette received 73.8% of the votes and 272,892 number of the votes.
+    Raymon Anthony Doane received 3.1% of the votes and 11,606 number of the votes.
 
