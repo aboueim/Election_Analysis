@@ -81,3 +81,4 @@ The analysis of the election shows that:
 
 ## Election-Audit Summary: 
 
+The script developed for the purpose of the above election audit can be utilized in order to extend such analysis to other 
